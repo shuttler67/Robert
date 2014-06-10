@@ -1,0 +1,18 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+X-AppInstall-Package=love
+X-AppInstall-Popcon=142
+X-AppInstall-Section=universe
+
+Name=LÖVE
+MimeType=application/x-love-game;
+Exec=/usr/bin/love
+Comment=Games development framework in lua
+Type=Application
+Categories=Development;Game;
+Terminal=false
+Icon=/home/thomas/Pictures/Love2D.png
+NoDisplay=true
+
+X-Ubuntu-Gettext-Domain=app-install-data
